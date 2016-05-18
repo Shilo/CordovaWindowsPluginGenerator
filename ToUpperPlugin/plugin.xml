@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+      id="com.contoso.ToUpperPlugin"
+      version="0.1.0">
+    <name>ToUpperPlugin</name>
+    <description>ToUpperPlugin plugin for Apache Cordova</description>
+    <license>MIT</license>
+    <keywords></keywords>
+    <repo></repo>
+    <issue></issue>
+
+    <js-module src="www/ToUpperPlugin.js" name="ToUpperPlugin">
+        <clobbers target="ToUpperPlugin" />
+    </js-module>
+
+    <!-- wp8 -->
+    <platform name="wp8">
+        <config-file target="config.xml" parent="/*">
+            <feature name="ToUpperPlugin">
+                <param name="wp-package" value="ToUpperPlugin"/>
+            </feature>
+        </config-file>
+
+        <source-file src="src/wp/ToUpperPlugin.cs" />
+    </platform>
+
+    <!-- windows -->
+    <platform name="windows">
+        <js-module src="src/windows/ToUpperPluginProxy.js" name="ToUpperPluginProxy">
+            <merges target="" />
+        </js-module>
+    </platform>
+
+</plugin>

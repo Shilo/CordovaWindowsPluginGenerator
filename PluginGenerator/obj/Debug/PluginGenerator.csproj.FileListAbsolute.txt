@@ -1,0 +1,9 @@
+C:\Users\shilo_000\Downloads\PluginSourceAndApp\PluginSourceAndApp\PluginGenerator\bin\Debug\PluginGenerator.exe.config
+C:\Users\shilo_000\Downloads\PluginSourceAndApp\PluginSourceAndApp\PluginGenerator\bin\Debug\PluginGenerator.exe
+C:\Users\shilo_000\Downloads\PluginSourceAndApp\PluginSourceAndApp\PluginGenerator\bin\Debug\PluginGenerator.pdb
+C:\Users\shilo_000\Downloads\PluginSourceAndApp\PluginSourceAndApp\PluginGenerator\obj\Debug\PluginGenerator.csprojResolveAssemblyReference.cache
+C:\Users\shilo_000\Downloads\PluginSourceAndApp\PluginSourceAndApp\PluginGenerator\obj\Debug\PluginGenerator.Form1.resources
+C:\Users\shilo_000\Downloads\PluginSourceAndApp\PluginSourceAndApp\PluginGenerator\obj\Debug\PluginGenerator.Properties.Resources.resources
+C:\Users\shilo_000\Downloads\PluginSourceAndApp\PluginSourceAndApp\PluginGenerator\obj\Debug\PluginGenerator.csproj.GenerateResource.Cache
+C:\Users\shilo_000\Downloads\PluginSourceAndApp\PluginSourceAndApp\PluginGenerator\obj\Debug\PluginGenerator.exe
+C:\Users\shilo_000\Downloads\PluginSourceAndApp\PluginSourceAndApp\PluginGenerator\obj\Debug\PluginGenerator.pdb
